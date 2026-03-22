@@ -1,4 +1,3 @@
-# Aqua-Wings
 # Aqua Wings
 
 Aqua Wings is a Python computer-vision project that runs a Roboflow model (`aqua-wings/2`) for drowning-person detection.
